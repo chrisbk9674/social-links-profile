@@ -1,4 +1,4 @@
-# 🌟 Social Links Profile – Frontend Mentor Challenge\*\*
+# 🌟 Fully Responsive Social Links Profile\*\*
 
 <p align="center">
   <img src="design/active-states2.jpg" alt="Blog Preview Card" width="50%">
